@@ -2,7 +2,6 @@
 categories = []
 date = 2022-12-26T03:00:00Z
 description = ""
-draft = true
 image = "/images/masonary-post/post-6.jpg"
 tags = ["fiserv", "payway", "prisma"]
 title = "Prueba"
