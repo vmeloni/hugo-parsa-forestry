@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Post
+  label: Novedades
   create: documents
   match: "*"
   templates:
@@ -18,7 +18,7 @@ sections:
   match: "*"
 - type: directory
   path: content/contact
-  label: Contact
+  label: Contacto
   create: none
   match: "*"
 - type: document
